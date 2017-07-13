@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1468659692 source:d:\gao\main.cpp
+	<iostream>
+	"graphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
+1469637188 source:g:\gao\main.cpp
+	<iostream>
+	"graphics.h"
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<mmsystem.h>
+
